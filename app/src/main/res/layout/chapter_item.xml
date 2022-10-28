@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    android:layout_height="wrap_content"
+    style="@style/custom_chapter_item_color"
+    android:background="?android:attr/selectableItemBackground">
+
+    <TextView
+        android:id="@+id/chapterNumber"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Vol.1 Chapter 1 : Magneto: Testament (Part 1)"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:layout_centerVertical="true"/>
+
+    <ImageButton
+        android:id="@+id/downloadChapter"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        app:tint="@color/white"
+        android:background="@null"
+        android:scaleType="fitXY" />
+
+</RelativeLayout>

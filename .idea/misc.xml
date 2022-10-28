@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.1" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/check_circle.xml" value="0.25" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/check_circle_outline.xml" value="0.25" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/horizontal_line.xml" value="0.1325" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/ic_back.xml" value="0.1115" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/ic_download.xml" value="0.25" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/ic_favorite.xml" value="0.1485" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/ic_previous_white.xml" value="0.214" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/ic_reply.xml" value="0.1" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/ic_search.xml" value="0.25" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/ic_unfavorite.xml" value="0.1485" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/seek_bar_container.xml" value="0.214" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/drawable/tab_indicator.xml" value="0.1" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/activity_chapter.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/activity_chapter2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/activity_chapters.xml" value="0.25" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/activity_comic.xml" value="0.14" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/activity_main.xml" value="0.19421487603305784" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/activity_main2.xml" value="0.1474164133738602" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/activity_main_activity2xsx.xml" value="0.16" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/activity_main_old.xml" value="0.17477203647416414" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/activity_reading_order.xml" value="0.2" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/activity_view_data.xml" value="0.28125" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.33" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/chapter_item.xml" value="0.33" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/character_item.xml" value="0.15428571428571428" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/comic_grid_item.xml" value="0.2" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/comic_item.xml" value="0.25" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/controls_dialog.xml" value="0.2234375" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/custom_toolbar.xml" value="0.22" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/fragment_about.xml" value="0.334375" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/fragment_chapter.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/fragment_chapter_activity2.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/fragment_chapters.xml" value="0.18" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/fragment_characters.xml" value="0.17477203647416414" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/fragment_comic.xml" value="0.1" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/fragment_dashboard.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/fragment_downloads.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/fragment_favourite.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/fragment_reading_order_comics.xml" value="0.17477203647416414" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/fragment_timeline.xml" value="0.275" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/item.xml" value="0.18304431599229287" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/placeholder_comic_item.xml" value="0.22" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/reading_order_item.xml" value="0.2" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/user_entry.xml" value="0.28125" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/view_empty.xml" value="0.16" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/view_error.xml" value="0.15653495440729484" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/view_loading.xml" value="0.15653495440729484" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/layout/view_pager_item.xml" value="0.15" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/menu/bottom_menu.xml" value="0.1685185185185185" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/menu/bottom_nav_menu.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/menu/toolbar_menu.xml" value="0.2175925925925926" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/mipmap-anydpi-v26/splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/sethr/AndroidStudioProjects/ComicReader/app/src/main/res/mipmap-anydpi-v26/splash_screen_round.xml" value="0.137" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

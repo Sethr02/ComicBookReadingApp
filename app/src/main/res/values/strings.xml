@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Comic Book Reader</string>
+    <string name="title_activity_chapter2">ChapterActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_chapter">ChapterActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_activity2xsx">MainActivity2xsx</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="about_text">Explore the early years of the God of Thunder in this brand-new adventure full of Marvel myth and magic! Join young Thor and his godly companions, Balder and Sif, as they travel the mystical land of Asgard on a quest of cosmic proportions. When Odin, the All-Father, sends his favorite son to gather four mystical elements that he will use to craft a powerful new weapon, not even Ragnarok will be able to stop the boy who would be king!</string>
+    <string name="no_characters_found">No Characters Found</string>
+    <string name="first_appearance_test">Tales of Suspense #39 (1963)</string>
+    <string name="creators_test">Stan Lee, Larry Lieber, Don Heck, Jack Kirby</string>
+    <string name="powers_test">Super-Genius Level Intellect, Powered Armor, Psychic Shield, Expert Engineer</string>
+    <string name="character_description_test">Genius, billionaire, playboy, philanthropist.</string>
+</resources>
